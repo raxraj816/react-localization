@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React Localization — i18next + i18nexus
+
+Localize a React app with react-i18next and i18nexus. 
+
+## i18next + i18nexus
+i18next is one of the most popular JavaScript localization libraries around, but its power is truly unleashed when used with i18nexus and its awesome API for scalable translation management.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
